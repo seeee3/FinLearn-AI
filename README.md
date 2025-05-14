@@ -53,9 +53,7 @@ FinLearn-AI is powered by the following official Deriv ebooks:
 | Search Fallback| DuckDuckGo Tools   |
 | Parsing & DB   | SQLAlchemy + pgvector |
 
-## How It Works: Agents and the RAG Pipeline
-
-FinLearn-AI uses a modular, multi-agent architecture powered by the [Agno](https://github.com/agno-agi/agno) framework. Each **agent** is responsible for a specific type of interaction (chatting, quiz generation, summarization, or study planning), and follows a Retrieval-Augmented Generation (RAG) workflow:
+## How It Works: The RAG Pipeline
 
 ### RAG Pipeline Overview
 
